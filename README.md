@@ -1,4 +1,5 @@
-TITLE: 
-Brewed Awakening Café
+# CS3 2nd Quarter Project Proposal by Castañeda and Luis
 
-SECOND TITLE:
+## Title: Koneko Kape
+### Second Title: Sip the moment.
+
